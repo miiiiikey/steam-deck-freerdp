@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/usr/bin/freerdp-shadow-cli /port:3389 /bind-address:0.0.0.0
+GenericName[en_US]=
+GenericName=
+Icon=preferences-system-login
+MimeType=
+Name[en_US]=remote.desktop
+Name=remote.desktop
+Path=
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
